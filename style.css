@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+      
+    }
+    
+    #myCanvas{
+    background-color: white;
+    border-width: 3px;
+    border-color: red;
+    border-style: ridge;
+    }
+    
+    .body_background {
+    background-image: url("https://static.turbosquid.com/Preview/2017/09/07__03_14_11/ptesl1_1.jpg74115CD8-C043-4AC1-A9C3-A1AC0B44C023Original.jpg");
+    background-size: cover;
+    background-position: center;
+    }
+    
+    h1 {
+      color: blue;
+    }
